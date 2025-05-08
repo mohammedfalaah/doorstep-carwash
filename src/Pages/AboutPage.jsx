@@ -27,52 +27,61 @@ const AboutPage = () => {
 {/* rts breadcrumb area end */}
 {/* Breadcrumb area end */}
 
-  <section className="rts-about-area inner two rts-section-gapTop">
-    <div className="container">
-      <div className="section-inner">
-        <div className="row align-items-center">
-          <div className="col-lg-6">
-            <div className="about-image-area-two">
-              <div className="left wow scaleIn" data-wow-delay=".5s" data-wow-duration="1s">
-                <img src="/assets/images/service/service-03.webp"  width={339} alt />
-              </div>
-              <div className="right wow scaleIn" data-wow-delay=".5s" data-wow-duration="1s">
-                <img src="assets/images/category/dashboard.webp" width={280} alt />
-                <div className="counter-area">
-                  <h2 className="title"><span className="counter">1000</span><span>+</span></h2>
-                  <p className="desc"> Customers Already</p>
-                </div>
-              </div>
+<section className="rts-about-area inner two rts-section-gapTop">
+  <div className="container">
+    <div className="section-inner">
+      <div className="row align-items-center">
+        <div className="col-lg-6 order-2 order-lg-1">
+          <div className="about-content-area">
+            <div className="section-title-area">
+              <p className="sub-title wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s">
+                About Us - Care Any Time
+              </p>
+              <h2 className="section-title wow move-right">
+                Revolutionizing Doorstep Car Wash and Detailing in India
+              </h2>
             </div>
-          </div>
-          <div className="col-lg-6">
-            <div className="about-content-area">
-              <div className="section-title-area">
-                <p className="sub-title wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s">Abou Us                  Care any Time</p>
-                <h2 className="section-title wow move-right">Revolutionizing Doorstep Car Wash and Detailing in India
-
-                </h2>
+            <p className="desc wow fadeInUp" data-wow-delay=".4s" data-wow-duration="1s">
+              Care Any Time began our journey in January 2020, bringing car wash services right to your doorstep.
+              By 2021, we expanded to include 100 franchisees across Kerala, with plans to grow further into Car Shoppe services. 
+              In 2022, the company was rebranded as Pexa, introducing doorstep car wash and Car Shoppe facilities. 
+              Continuing our growth, 2023 saw over 150 franchisees nationwide and the launch of our own branded products. 
+              Now in 2024, with over 180 franchisees, we've transitioned to Bike units, offering even more accessible service options.
+            </p>
+            <a href="call-to_%2b12505550199.html" className="rts-btn call-btn wow fadeInUp" data-wow-delay=".6s" data-wow-duration="1s">
+              <span>
+                <i className="fa-regular fa-phone" />
+              </span>
+              <div className="content">
+                <h6>Call Us Now</h6>
+                <p>+91 9544727727</p>
               </div>
-              <p className="desc wow fadeInUp" data-wow-delay=".4s" data-wow-duration="1s">Care any Time, we began our journey in January 2020, bringing car wash services right to your doorstep. By 2021, we expanded to include 100 franchisees across Kerala, with plans to grow further into Car Shoppe services. In 2022, The company was rebranded as Pexa, introducing doorstep car wash and Car Shoppe facilities. Continuing our growth, 2023 saw over 150 franchisees nationwide and the launch of our own branded products. Now in 2024, with over 180 franchisees, we've transitioned to Bike units, offering even more accessible service options.</p>
-              <a href="call-to_%2b12505550199.html" className="rts-btn call-btn wow fadeInUp" data-wow-delay=".6s" data-wow-duration="1s">
-                <span>
-                  <i className="fa-regular fa-phone" />
-                </span>
-                <div className="content">
-                  <h6>Call Us Now</h6>
-                  <p>+91 9544727727</p>
-                </div>
-              </a>
+            </a>
+          </div>
+        </div>
+        <div className="col-lg-6 order-1 order-lg-2">
+          <div className="about-image-area-two">
+            <div className="left wow scaleIn" data-wow-delay=".5s" data-wow-duration="1s">
+              <img src="/assets/images/service/service-03.webp" width={339} alt />
+            </div>
+            <div className="right wow scaleIn" data-wow-delay=".5s" data-wow-duration="1s">
+              <img src="assets/images/category/dashboard.webp" width={280} alt />
+              <div className="counter-area">
+                <h2 className="title"><span className="counter">1000</span><span>+</span></h2>
+                <p className="desc"> Customers Already</p>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div className="bg-shape-area">
-      <img src="assets/images/category/shape/shape-01.svg" alt />
-      <img src="assets/images/category/shape/shape-02.svg" alt />
-    </div>
-  </section>
+  </div>
+  <div className="bg-shape-area">
+    <img src="assets/images/category/shape/shape-01.svg" alt />
+    <img src="assets/images/category/shape/shape-02.svg" alt />
+  </div>
+</section>
+
   {/* About Area End */}
   {/* Counter Area Start */}
   {/* <section className="rts-counter-area-two">
