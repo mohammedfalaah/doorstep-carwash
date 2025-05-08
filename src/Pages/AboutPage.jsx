@@ -43,7 +43,7 @@ const AboutPage = () => {
             </div>
             <p className="desc wow fadeInUp" data-wow-delay=".4s" data-wow-duration="1s">
               Care Any Time began our journey in January 2020, bringing car wash services right to your doorstep.
-              By 2021, we expanded to include 100 franchisees across Kerala, with plans to grow further into Car Shoppe services. 
+              By 2021, with plans to grow further into Car Shoppe services. 
               In 2022, introducing doorstep car wash and Car Shoppe facilities. 
               Continuing our growth, 2023 saw over 150 franchisees nationwide and the launch of our own branded products. 
               Now in 2024, with over 180 franchisees, we've transitioned to Bike units, offering even more accessible service options.
