@@ -1329,7 +1329,7 @@ to you?</h6>
                       <li><i className="rt-icon-star-sharp-half-stroke" /></li>
                     </ul>
                     <p className="desc">
-                    Great experience.. Amazing service at very affordable price.. It's been a great experience booking through Pexa app as per our convenience and the on time delivery of service. Thanks CAT
+                    Great experience.. Amazing service at very affordable price.. It's been a great experience booking through  as per our convenience and the on time delivery of service. Thanks CAT
                     </p>
                     <div className="author-area d-flex align-items-center">
                       <div className="image">
@@ -1353,7 +1353,7 @@ to you?</h6>
                       <li><i className="rt-icon-star-sharp-half-stroke" /></li>
                     </ul>
                     <p className="desc">
-                    I am impressed with my 1st experience of getting my car washed at my doorstep. This avoids driving to a washing station and waiting time. Would like to use Pexa in future too. They're the best doorstep car wash service in kerala for sure
+                    I am impressed with my 1st experience of getting my car washed at my doorstep. This avoids driving to a washing station and waiting time. Would like to use in future too. They're the best doorstep car wash service in kerala for sure
                     </p>
                     <div className="author-area d-flex align-items-center">
                       <div className="image">
