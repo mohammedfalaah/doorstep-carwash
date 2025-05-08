@@ -26185,3 +26185,35 @@ li.has-dropdown:hover .submenu {
   }
 }
 /*# sourceMappingURL=../maps/style.css.map */
+
+
+/* Mobile-first approach */
+.rts-about-area .row {
+  display: flex;
+  flex-direction: column;
+}
+
+.rts-about-area .col-lg-6 {
+  width: 100%;
+}
+
+/* On larger screens (tablet and above) */
+@media (min-width: 768px) {
+  .rts-about-area .row {
+    flex-direction: row;
+  }
+
+  .rts-about-area .col-lg-6 {
+    width: 50%;
+  }
+
+  .about-image-area {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .about-image-area .left, .about-image-area .right {
+    width: auto;
+  }
+}
+
