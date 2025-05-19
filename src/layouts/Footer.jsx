@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="footer-wrapper-style-between">
             <div className="single-wized logo-area">
               <a href="index.html" className="logo">
-                <img style={{height:'70px'}} src="/assets/images/logo/logo-car.png" alt />
+                <img style={{height:'70px'}} src="/assets/images/logo/logocar.png" alt />
               </a>
               <p className="desc">CARE ANY TIME - CAT sets fresh benchmarks in the world of green car care. Equipped with an innovative cleaning solution and an army of trained service personnel, we clean cars without water quickly and easily..</p>
             </div>

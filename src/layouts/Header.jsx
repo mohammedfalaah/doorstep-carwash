@@ -61,7 +61,7 @@ const Header = () => {
                 <div className="header-wrapper-1">
                   <div className="logo-area-start">
                     <a href="/" className="logo">
-                      <img style={{height:'70px'}} src="/assets/images/logo/logo-car.png" alt="logo_area" />
+                      <img style={{height:'70px'}} src="/assets/images/logo/logocar.png" alt="logo_area" />
                     </a>
                   </div>
                   <div className="header-right d-block">
@@ -87,7 +87,7 @@ const Header = () => {
                         
                         <div className="menu-btn" id="menu-btn">
                           <svg width={55} height={55} viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect width={55} height={55} rx={15} fill="#FF3600" />
+                            <rect width={55} height={55} rx={15}  />
                             <rect x={18} y={33} width={10} height={2} fill="#ffffff" />
                             <rect x={18} y={26} width={20} height={2} fill="#ffffff" />
                             <rect x={18} y={19} width={10} height={2} fill="#ffffff" />
