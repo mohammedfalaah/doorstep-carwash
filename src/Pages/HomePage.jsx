@@ -1208,7 +1208,7 @@ to you?</h6>
               <p className="sub-title wow fadeInUp" data-wow-delay=".1s" data-wow-duration=".8s">Why Choose Us</p>
               <h2 className="section-title mb-5  wow move-right">Why Choose <span>Us</span></h2>
               <p className="wow fadeInUp" data-wow-delay=".1s" data-wow-duration=".8s">
-                CAT is a revolutionary high-performance waterless eco-conscious car wash and care company committed to the health of this planet. We study, import, and provide high-quality car care services to preserve the sustainability factor making this world a better place to live in. Hozzo the professional car cleaning service provider for your car wash right at your doorstep.
+                CAT is a revolutionary high-performance waterless eco-conscious car wash and care company committed to the health of this planet. We study, import, and provide high-quality car care services to preserve the sustainability factor making this world a better place to live in. Clean Any Time the professional car cleaning service provider for your car wash right at your doorstep.
               </p>
             </div>
             <ul className="why-choose-feature-list wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
