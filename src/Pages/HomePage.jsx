@@ -35,7 +35,7 @@ to you?</h6>
       <WhatsappChat />
       {/* Banner area end */}
       {/* About Area Start */}
-      <section style={{backgroundColor:'#121212'}} className="rts-about-area two rts-section-gap">
+      <section  className="rts-about-area two rts-section-gap">
         <div className="container">
           <div className="section-inner">
             <div className="row align-items-center">
@@ -60,7 +60,7 @@ to you?</h6>
                   <div className="section-title-area">
                     <p className="sub-title wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s">About 
                       Us </p>
-                    <h2 className="section-title cw wow move-right"> We clean your vehicle at your convenience. Save time, stay clean<br /> 
+                    <h2 className="section-title  wow move-right"> We clean your vehicle at your convenience. Save time, stay clean<br /> 
                       <span>Care Any Time.</span>
                     </h2>
                   </div>
@@ -119,7 +119,7 @@ to you?</h6>
       </section> */}
       {/* About Area End */}
       {/* Category Area Start */}
-      <section style={{backgroundColor:'#121212'}} className="rts-portfolio-area2 rts-section-gap">
+      <section  className="rts-portfolio-area2 rts-section-gap">
         <div className="container">
           <div className="section-top d-flex justify-content-between align-items-end">
             <div className="section-title-area">
@@ -1197,7 +1197,7 @@ to you?</h6>
       </section> */}
       {/* Counter Area End */}
     {/* Why Choose Us Area Start */}
-    <section style={{ backgroundColor: '#121212' }} className="rts-why-choose-us2 rts-section-gap">
+    <section className="rts-why-choose-us2 rts-section-gap">
   <div className="container">
     <div className="section-inner">
       <div className="row">
@@ -1206,7 +1206,7 @@ to you?</h6>
           <div className="left-side-content">
             <div className="section-title-area">
               <p className="sub-title wow fadeInUp" data-wow-delay=".1s" data-wow-duration=".8s">Why Choose Us</p>
-              <h2 className="section-title mb-5 cw wow move-right">Why Choose <span>Us</span></h2>
+              <h2 className="section-title mb-5  wow move-right">Why Choose <span>Us</span></h2>
               <p className="wow fadeInUp" data-wow-delay=".1s" data-wow-duration=".8s">
                 CAT is a revolutionary high-performance waterless eco-conscious car wash and care company committed to the health of this planet. We study, import, and provide high-quality car care services to preserve the sustainability factor making this world a better place to live in. Hozzo the professional car cleaning service provider for your car wash right at your doorstep.
               </p>
@@ -1239,11 +1239,11 @@ to you?</h6>
       
      
       {/* Testimonials Area Start */}
-      <section style={{backgroundColor:'#121212'}} className="rts-testimonials-area ">
+      <section  className="rts-testimonials-area ">
         <div className="container">
           <div className="section-title-area2">
             <p className="sub-title wow fadeInUp" data-wow-delay=".1s" data-wow-duration=".8s">Testimonial</p>
-            <h2 className="section-title wow move-right cw">What Our <span>Clients</span> Say</h2>
+            <h2 className="section-title wow move-right ">What Our <span>Clients</span> Say</h2>
           </div>
           <div className="testimonial-slider-inner mt--80">
             <div className="swiper testimonialSlider2">

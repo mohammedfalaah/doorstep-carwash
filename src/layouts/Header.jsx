@@ -6,7 +6,7 @@ const Header = () => {
     <div>
           {/* header area start */}
       {/* header area start */}
-      <header className="header-two header--sticky">
+      <header className=" header--sticky">
         {/* <div className="header-top">
           <div className="container-2">
             <div className="header-top-inner d-flex align-items-center justify-content-between">
