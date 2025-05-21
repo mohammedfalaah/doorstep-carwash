@@ -61,7 +61,7 @@ const Header = () => {
                 <div className="header-wrapper-1">
                   <div className="logo-area-start">
                     <a href="/" className="logo">
-                      <img style={{height:'70px'}} src="/assets/images/logo/logocar.png" alt="logo_area" />
+                      <img style={{height:'90px'}} src="/assets/images/logo/logocar.png" alt="logo_area" />
                     </a>
                   </div>
                   <div className="header-right d-block">
